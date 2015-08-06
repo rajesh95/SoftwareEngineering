@@ -52,6 +52,6 @@ Languages that we plan to use : Java, C++,Python or Pascal.
 Group #7: The Coders Next Door
 Team Members : syed zuhaib k, Rajesh.R, ruhul amin choudary,kashif baig
 Section : B
-Domains Interested in : programming,Game Desgining
+Domains Interested in : programming,Game Designing,Software Design
 Tools Interested we plan to use : GitHub,Eclipse
 Languages that we plan to use : c / c++,Java
