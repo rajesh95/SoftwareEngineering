@@ -49,7 +49,7 @@ Domains Interested in :programming
 Tools that we plan to use : GitHub, Rational Rose, Eclipse, Stove, Spices
 Languages that we plan to use : Java, C++,Python or Pascal.
 
-Group #7: Event Horizon
+Group #7: The Coders Next Door
 Team Members : syed zuhaib k, Rajesh.R, ruhul amin choudary,kashif baig
 Section : B
 Domains Interested in : programming,Game Desgining
